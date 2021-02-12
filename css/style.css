@@ -1,0 +1,43 @@
+
+    	.Icon
+		{
+			cursor: move;
+		}
+
+        .paragraf
+		{
+	    color:red; 
+        display:inline-block;
+        font-family: sans-serif; 
+        font-weight:bold; 
+		}
+        .items{   
+            padding: 20px;
+            border:1px solid black;
+            text-align: center;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        body{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            display:flex;
+            justify-content: center;
+            background-repeat:no-repeat; 
+            background-size: cover;
+        }
+        .btn{
+             padding-right: 0px; 
+             margin-top: 0px;  
+             text-align: center;
+             font-size: 15px;
+             padding: 5px 7px;
+             background-color:blue !important;
+        }
+        .sortable { 
+                list-style-type: none;
+                }
+            .yazi{
+                font-family: Tahoma;
+            }
+            
